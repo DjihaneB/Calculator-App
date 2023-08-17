@@ -101,6 +101,6 @@ body{
     flex-basis: 47%;
 }
 
-.calc-button-row:last-child .double:first-child:first-child{
+/* .calc-button-row:last-child .double:first-child:first-child{
     flex-basis: 73%;
-}
+} */
